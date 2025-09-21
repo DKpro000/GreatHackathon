@@ -46,7 +46,7 @@ A full-stack search application with AI-powered semantic search using AWS Bedroc
 - Responsive UI with Tailwind CSS
 
 ## Approach
-<img width="3840" height="2669" alt="System architecture diagram2" src="https://github.com/user-attachments/assets/84f93be9-8591-42c4-9977-0cfd27824f8a" />
+<img width="3840" height="2669" alt="System architecture diagram2" src="https://github.com/user-attachments/assets/37d9ade8-b931-4514-8e45-73c14fdd2b8a" />
 
 ## Troubleshooting
 
