@@ -4,12 +4,7 @@ A full-stack search application with AI-powered semantic search using AWS Bedroc
 
 ## Quick Start
 
-1. **Run the project:**
-   ```bash
-   run_project.bat
-   ```
-
-2. **Manual setup (if needed):**
+1. **Manual setup**
 
    **Backend:**
    ```bash
@@ -21,6 +16,12 @@ A full-stack search application with AI-powered semantic search using AWS Bedroc
    ```bash
    cd websearchfrontend
    npm install
+   cd ..
+   ```
+2. **Run the project:**
+   ```bash
+   python app.py
+   cd websearchfrontend
    npm run dev
    ```
 
