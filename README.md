@@ -50,3 +50,7 @@ A full-stack search application with AI-powered semantic search using AWS Bedroc
 - Ensure AWS credentials are configured
 - Check that port 8080 (backend) and 5173 (frontend) are available
 - Verify product data files exist in `archive/` directory
+
+## Approach
+<img width="778" height="540" alt="image" src="https://github.com/user-attachments/assets/587913b5-35bb-4e9d-ba35-abcb47dda57b" />
+
