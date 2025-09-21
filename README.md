@@ -52,5 +52,6 @@ A full-stack search application with AI-powered semantic search using AWS Bedroc
 - Verify product data files exist in `archive/` directory
 
 ## Approach
-<img width="778" height="540" alt="image" src="https://github.com/user-attachments/assets/587913b5-35bb-4e9d-ba35-abcb47dda57b" />
+<img width="3840" height="2669" alt="System architecture diagram2" src="https://github.com/user-attachments/assets/84f93be9-8591-42c4-9977-0cfd27824f8a" />
+
 
