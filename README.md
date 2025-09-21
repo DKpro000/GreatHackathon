@@ -45,13 +45,13 @@ A full-stack search application with AI-powered semantic search using AWS Bedroc
 - Real-time search with debouncing
 - Responsive UI with Tailwind CSS
 
+## Approach
+<img width="3840" height="2669" alt="System architecture diagram2" src="https://github.com/user-attachments/assets/84f93be9-8591-42c4-9977-0cfd27824f8a" />
+
 ## Troubleshooting
 
 - Ensure AWS credentials are configured
 - Check that port 8080 (backend) and 5173 (frontend) are available
 - Verify product data files exist in `archive/` directory
-
-## Approach
-<img width="3840" height="2669" alt="System architecture diagram2" src="https://github.com/user-attachments/assets/84f93be9-8591-42c4-9977-0cfd27824f8a" />
 
 
